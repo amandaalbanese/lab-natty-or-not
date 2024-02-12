@@ -1,51 +1,49 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# CodeChaos: Gerando Risadas e Bugs desde 2024 ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto elaborado para compreender se é possível que as IAs generativas produzam conteúdos naturais a ponto de serem confundidos com os criados por humanos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT 3.5 e gerador de imagens do BING.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+No prompt do Chat GPT, solicitei que a ferramenta escrevesse elaborasse um diálogo com informações corriqueiras na vida de programadores, com humor e sarcasmo, entre duas pessoas.
+No BING, inseri um trecho da conversa no prompt, solicitando que a IA utilizasse o díalogo para construir uma imagem que o representasse.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+Como resultado do Chat GPT, obtive a seguinte conversa:
+
+*Programador 1:* Ei, você viu aquela nova biblioteca que lançaram para manipular datas em Python?
+
+*Programador 2:* Claro que sim, é tão revolucionária que agora posso passar mais tempo me perguntando se é "dd/mm/yyyy" ou "mm/dd/yyyy"!
+
+*Programador 1:* Ah, a eterna luta dos formatos de data! Mas pelo menos agora podemos discutir sobre isso em código de forma mais elegante.
+
+*Programador 2:* Sim, e quando estamos cansados de discutir datas, sempre podemos nos perder nos milhares de pacotes npm para resolver um problema simples!
+
+*Programador 1:* Verdade, npm é como uma loja de doces para desenvolvedores, só que em vez de açúcar, é cheia de dependências e bugs inesperados.
+
+*Programador 2:* Ah, e não podemos esquecer das alegrias de fazer deploy de um novo código e descobrir que quebrou tudo no ambiente de produção!
+
+*Programador 1:* Ah, sim, aquele sentimento de realização quando o chefe te liga no meio da noite para dizer que o site está fora do ar. É como música para os nossos ouvidos.
+
+*Programador 2:* E quando finalmente resolvemos o problema e tudo está funcionando, aí vem o cliente com uma nova "feature" que precisa ser implementada ontem!
+
+*Programador 1:* Bem-vindo ao mundo encantado da programação, onde os prazos são apertados, os bugs são persistentes e o café é a nossa única salvação.
+
+*Programador 2:* Ah, o café! O combustível que mantém os bits e bytes fluindo. Sem ele, estaríamos perdidos no vazio do loop infinito.
+
+*Programador 1:* E no final do dia, mesmo com todos os desafios e sarcasmos, não trocaríamos esse estilo de vida por nada no mundo. Afinal, quem mais pode dizer que passa o dia inteiro brigando com máquinas e ainda chama isso de diversão?
+
+*Programador 2:* É verdade, somos masoquistas digitais, vivendo em um mundo de zeros e uns, onde a única certeza é que sempre haverá mais código para escrever e mais bugs para corrigir.
+
+*Programador 1:* E que assim seja, enquanto houver café na xícara e linhas de código para digitar, estaremos aqui, enfrentando os desafios do universo da programação com humor e sarcasmo.
+
+Já no BING, o resultado foi essa imagem (que eu, particularmente, achei muito legal!)
+![image](https://github.com/amandaalbanese/lab-natty-or-not/assets/140350385/a072e48f-2d13-45f9-af17-87fb41f96608)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+A criação de algo natural através da IA envolve vários desafios, e considero a definição do que é natural e como medir o grau dessa naturalidade o principal deles.
+Embora às vezes nos confunda, ainda é possível identificar, principalmente através de vídeos, quando a IA está por trás do conteúdo (inclusive os vídeos gravados para o projeto! Tenho certeza que o Venilton dali era FAKE!!!)
